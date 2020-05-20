@@ -1,0 +1,21 @@
+{
+  "name": "prac7",
+  "description": "Collection of personal Blender projects rendered in A-Frame.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "python -m SimpleHTTPServer 34213",
+    "ghpages": "ghpages"
+  },
+  "devDependencies": {
+    "ghpages": "0.0.3"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-blender",
+    "aframe-blender-projects",
+    "blender"
+  ],
+  "main": "aframe.min.js",
+  "author": "hector"
+}
